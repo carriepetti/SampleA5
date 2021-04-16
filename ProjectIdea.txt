@@ -5,6 +5,7 @@ Questions
 2. What kind of website is it (Community, Existing Industry, Startup)?
 
 3. What problem does your project solve?
+Our product solves...
 
 4. Is it a “vitamin” or a “painkiller”? Why?
 
