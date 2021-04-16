@@ -4,6 +4,7 @@ Questions
 Our project idea is...
 
 2. What kind of website is it (Community, Existing Industry, Startup)?
+This is going to be a ... website
 
 3. What problem does your project solve?
 
