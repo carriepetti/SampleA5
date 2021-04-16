@@ -7,6 +7,7 @@ Our project idea is...
 This is going to be a ... website
 
 3. What problem does your project solve?
+Our product solves...
 
 4. Is it a “vitamin” or a “painkiller”? Why?
 
